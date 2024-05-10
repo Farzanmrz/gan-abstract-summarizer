@@ -1,0 +1,4 @@
+# Exclude macOS system files and pycharm config
+.DS_Store
+*.idea/
+*.ipynb_checkpoints/
